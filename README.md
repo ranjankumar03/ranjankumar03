@@ -9,3 +9,8 @@ My technical toolkit includes Java (up to version 21), Python, C++, multithreadi
 With a Master of Science in Artificial Intelligence & Machine Learning currently pursing from the University of Portsmouth and Bachelors in Computer Science and Engineering and multiple industry certifications, I bring both deep technical acumen and a passion for innovation. I am excited about the opportunity to apply my skills and experience to drive impactful solutions.
 
 I welcome the opportunity to discuss how my background aligns with your team’s objectives. Please feel free to contact me at your convenience.
+
+https://www.linkedin.com/in/jhatech/
+https://betasignal.substack.com/
+https://github.com/ranjankumar03
+https://medium.com/@hereisranjan
