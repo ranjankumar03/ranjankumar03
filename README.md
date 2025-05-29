@@ -11,6 +11,9 @@ With a Master of Science in Artificial Intelligence & Machine Learning currently
 I welcome the opportunity to discuss how my background aligns with your team’s objectives. Please feel free to contact me at your convenience.
 
 https://www.linkedin.com/in/jhatech/
+
 https://betasignal.substack.com/
+
 https://github.com/ranjankumar03
+
 https://medium.com/@hereisranjan
