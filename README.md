@@ -6,7 +6,7 @@ Previously, I played a pivotal role at UBS AG, where I designed cloud-based risk
 
 My technical toolkit includes Java (up to version 21), Python, C++, multithreading, low-latency frameworks, Spring Boot, cloud platforms, and DevOps tools like Kubernetes and Jenkins. Beyond my technical contributions, I take pride in mentoring junior engineers, fostering collaborative teams, and ensuring seamless knowledge transfer.
 
-With a Master of Science in Artificial Intelligence & Machine Learning currently pursing from the University of Portsmouth and Bachelors in Computer Science and Engineering and multiple industry certifications, I bring both deep technical acumen and a passion for innovation. I am excited about the opportunity to apply my skills and experience to drive impactful solutions.
+With a Master of Science (MSc) in Artificial Intelligence & Machine Learning currently pursing from the University of Portsmouth and Bachelors in Computer Science and Engineering and multiple industry certifications, I bring both deep technical acumen and a passion for innovation. I am excited about the opportunity to apply my skills and experience to drive impactful solutions.
 
 I welcome the opportunity to discuss how my background aligns with your team’s objectives. Please feel free to contact me at your convenience.
 
